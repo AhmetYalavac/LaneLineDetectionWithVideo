@@ -1,0 +1,1 @@
+The code enhances lane and path data obtained from a video using image processing techniques. Subsequently, these data are highlighted. Afterward, the data is reduced to the Region of Interest (ROI) using image processing techniques (ROI is determined for this specific video; adaptive ROI can be applied). 
